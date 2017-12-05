@@ -1,0 +1,28 @@
+.clear
+{
+    clear: both;
+    float: none;
+}
+
+body{
+
+    background-color: #fff;
+
+}
+
+.navbar-default .navbar-nav>li>a , a{
+
+    color: #fff;
+}
+.navbar-default .navbar-nav>li>a:hover , a:hover{
+
+    color: #fff;
+    text-decoration:underline;
+}
+
+
+
+.row
+{
+    margin-bottom: 20px;
+}

@@ -1,0 +1,169 @@
+input[type='text'], input[type='password'], input[type='date'], select
+{
+
+    font-size:14px;
+}
+
+.jumbtron{
+
+	border: 1px solid #ddd;
+		
+}
+
+.navbar-default
+{
+ background-color: #12c18f;
+
+}
+.home
+{
+    background-image: url('images/bg.jpg');
+	background-size:cover;
+
+}
+
+.home2
+{
+    background-image: url('images/bg2.png');
+
+}
+
+.input-group-addon
+{
+    background-color: #12c18f;
+    border-color: #12c18f;
+}
+body{color: #5C5C5C;}
+
+.loginBg3
+{
+    background-color: #ffffff;
+    box-shadow: 0px 0px 12px rgba(0,0,0 ,0.18);
+    border-radius: 4px;
+}
+
+.loginBg
+{
+    background-color: #f9f9f9;
+
+    border:2px solid #ddd;
+}
+.loginBg2
+{
+    background-color: #f7f7f7;
+
+    border:1px solid #ddd;
+}
+
+.nav-pills > li.active > a,.nav-pills > li.active > a:focus {
+    color: #fff;
+    background-color: #12c18f;
+    border-radius:0px;
+}
+.nav-pills > li.active > a:hover{
+    background-color:#d2d2d2;
+}
+.nav-pills > li.active > a{
+    border-radius:0px;
+}
+.nav-pills > li > a{
+
+    background-color:#777;
+    color:#fff;
+    border-radius:0px;
+    font-size:14px;
+}
+
+.nav-pills > li > a:hover{
+
+background-color:#d2d2d2;
+}
+
+.glyphicon
+{
+    color: #fff;
+}
+
+.input-group input
+{
+    border: 1px solid #d7d7d7;
+}
+
+
+.input-group input:hover
+{
+    border: 1px solid #4db3b3;
+}
+
+
+.btn-default
+{
+    background-color: #4db3b3;
+    color: #fff;
+    border-color: #4db3b3;
+}
+.btn-default:hover
+{
+    background-color: #23cece;
+    font-weight: bold;
+    color: #fff;
+}
+
+.navbar-default .navbar-text
+{
+    color: #fff;
+}
+
+
+.nav-tabs li a
+{
+    color: #979797;
+    font-weight: bold;
+}
+
+.space-10px
+{
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.btn-link, .btn-info, .btn-link:focus, .btn-link:active
+{
+    background-color: #4db3b3;
+    color: #fff;
+    border-radius: 4px;
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+.editBtn{}
+.btn-link:hover, .btn-info:hover
+{
+    background-color: #4db3b3;
+    opacity: 0.7;
+    text-decoration: none;
+    color: #fff;
+}
+
+.panel-title
+{
+    color: #9a9a9a;
+}
+
+.table > tbody > tr > td
+{
+    border-top: 0px;
+}
+
+.tHeader > tbody > tr >th{
+    background-color:#12c18f;
+    color:#fff;
+}
+
+.tHeader > tbody > tr >td{
+    background-color:#f7f7f7;
+
+}
+
+
+
