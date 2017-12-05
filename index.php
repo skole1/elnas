@@ -47,7 +47,7 @@ if(isset($_POST['login'])){
       <link rel="stylesheet" type="text/css" href="css/styles.css"/>
     <link href="css/layout.css" rel="stylesheet" type="text/css" />
 
-    <title>Learn Mathematics | Home</title>
+    <title>Learn Maths | Home</title>
 </head>
 <body class="home">
 <div class="navbar  navbar-default navbar-fixed-top" style="padding-bottom:12px; color:#fff;">
